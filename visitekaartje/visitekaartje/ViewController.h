@@ -2,7 +2,7 @@
 //  ViewController.h
 //  visitekaartje
 //
-//  Created by Edwin Otten on 9/1/14.
+//  Created by Edwinn Name on 03/09/14.
 //  Copyright (c) 2014 ___FULLUSERNAME___. All rights reserved.
 //
 

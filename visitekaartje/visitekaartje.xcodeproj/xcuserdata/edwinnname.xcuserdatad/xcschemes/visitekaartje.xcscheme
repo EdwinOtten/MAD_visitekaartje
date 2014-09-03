@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0DD0B73D19B4A64800E9C34D"
+               BlueprintIdentifier = "3DFD610D19B732D3009D4A46"
                BuildableName = "visitekaartje.app"
                BlueprintName = "visitekaartje"
                ReferencedContainer = "container:visitekaartje.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0DD0B76119B4A64800E9C34D"
+               BlueprintIdentifier = "3DFD612E19B732D3009D4A46"
                BuildableName = "visitekaartjeTests.xctest"
                BlueprintName = "visitekaartjeTests"
                ReferencedContainer = "container:visitekaartje.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0DD0B73D19B4A64800E9C34D"
+            BlueprintIdentifier = "3DFD610D19B732D3009D4A46"
             BuildableName = "visitekaartje.app"
             BlueprintName = "visitekaartje"
             ReferencedContainer = "container:visitekaartje.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0DD0B73D19B4A64800E9C34D"
+            BlueprintIdentifier = "3DFD610D19B732D3009D4A46"
             BuildableName = "visitekaartje.app"
             BlueprintName = "visitekaartje"
             ReferencedContainer = "container:visitekaartje.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0DD0B73D19B4A64800E9C34D"
+            BlueprintIdentifier = "3DFD610D19B732D3009D4A46"
             BuildableName = "visitekaartje.app"
             BlueprintName = "visitekaartje"
             ReferencedContainer = "container:visitekaartje.xcodeproj">
